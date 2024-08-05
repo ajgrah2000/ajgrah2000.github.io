@@ -12,3 +12,7 @@ Simple Samples
 [rust_atari2600 release](https://github.com/ajgrah2000/rusted_atari2600/releases/latest)
 
 [rustsega release](https://github.com/ajgrah2000/rustsega/releases/latest/)
+
+## Console Emulation Overview
+[Simple mdbook](https://github.com/ajgrah2000/emulation_overview/)
+[Console Emulation Overview](https://ajgrah2000.github.io/emulation_overview/console_overview/index.svg)
