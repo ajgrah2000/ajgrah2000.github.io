@@ -14,5 +14,6 @@ Simple Samples
 [rustsega release](https://github.com/ajgrah2000/rustsega/releases/latest/)
 
 ## Console Emulation Overview
-[Simple mdbook](https://github.com/ajgrah2000/emulation_overview/)
+[Simple mdbook](https://ajgrah2000.github.io/emulation_overview/)
+
 [Console Emulation Overview](https://ajgrah2000.github.io/emulation_overview/console_overview/index.svg)
