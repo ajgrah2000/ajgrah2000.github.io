@@ -8,6 +8,9 @@ Simple Samples
 
 [Rust Sega](https://ajgrah2000.github.io/rustsega/)
 
+## Nix stuff (building the above repose in nix, and publishing with github workflows)
+[Nix Rust](https://ajgrah2000.github.io/nix_rust/)
+
 ## Arbitrary Releases
 [rust_atari2600 release](https://github.com/ajgrah2000/rusted_atari2600/releases/latest)
 
