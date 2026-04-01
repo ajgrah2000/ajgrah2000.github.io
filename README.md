@@ -8,7 +8,7 @@ Simple Samples
 
 [Rust Sega](https://ajgrah2000.github.io/rustsega/)
 
-## Nix stuff (building the above repose in nix, and publishing with github workflows)
+## Nix stuff (above built in nix via github workflows)
 [Nix Rust](https://ajgrah2000.github.io/nix_rust/)
 
 ## Arbitrary Releases
